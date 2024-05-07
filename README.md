@@ -1,1 +1,1 @@
-# Day01Activity
+# first-day-repo
